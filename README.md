@@ -1,5 +1,7 @@
 # Projeto FloodFill: Colorindo Regiões de um Terreno com Obstáculos
 
+### Alunos: Gabriel Faria, João Victor Salim, Lucas Garcia, Maísa Pires
+
 ## Descrição do Projeto
 
 Este projeto implementa o algoritmo Flood Fill para identificar e preencher automaticamente regiões conectadas em um grid bidimensional. O sistema é projetado para simular o mapeamento inteligente de terrenos para robôs autônomos, onde cada célula do grid pode ser um espaço livre (navegável) ou um obstáculo. O objetivo principal é "colorir" todas as áreas livres conectadas, facilitando a visualização e o planejamento de rotas para os robôs.
